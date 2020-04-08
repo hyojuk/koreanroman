@@ -1,0 +1,23 @@
+{
+  "name": "koreanroman",
+  "version": "1.0.0",
+  "description": "Node package for romanization of the Korean language.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyojuk/koreanroman.git"
+  },
+  "keywords": [
+    "korean",
+    "romanization"
+  ],
+  "author": "Hyoju Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyojuk/koreanroman/issues"
+  },
+  "homepage": "https://github.com/hyojuk/koreanroman#readme"
+}
